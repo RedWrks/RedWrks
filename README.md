@@ -11,6 +11,7 @@ I like learning and building stuff.
 |-------|
 | C |
 | C++ |
+| Python |
 | JavaScript |
 | HTML/CSS | 
 | SQL |
